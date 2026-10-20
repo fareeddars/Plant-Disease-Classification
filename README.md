@@ -1,40 +1,39 @@
 # Plant Disease Classification Using Deep Learning
 
 ## Project Overview
-This project explores plant disease classification using deep learning and computer vision. It is based on an existing open-source implementation and the PlantVillage dataset.
+This project explores deep learning-based plant disease classification using computer vision and the PlantVillage dataset. It focuses on the potential application of artificial intelligence in smart agriculture and early plant disease identification.
 
 ## Objectives
-- Understand image-based plant disease classification.
-- Explore deep learning workflows for agricultural applications.
-- Review model implementation, dataset structure, and prediction outputs.
-- Identify opportunities for further evaluation and improvement.
+- Explore image-based plant disease classification.
+- Understand the use of deep learning in agricultural applications.
+- Review the existing model implementation and dataset structure.
+- Identify opportunities for future evaluation and improvement.
 
-## Technology Stack
+## Technologies
 - Python
 - Jupyter Notebook
 - Deep Learning
-- Image Classification
+- Computer Vision
 - PlantVillage Dataset
 
 ## Repository Contents
-- `PDD_Classification_Niranjan.ipynb` — classification notebook
-- `classification.py` — classification-related code
-- `Reuse.py` — supporting Python code
-- `PlantVillage/` — dataset directory included in the original repository
+- `PDD_Classification_Niranjan.ipynb` — Classification notebook
+- `classification.py` — Classification-related code
+- `Reuse.py` — Supporting Python code
+- `PlantVillage/` — Dataset directory included in the repository
 
 ## Research Relevance
-This project supports my learning and research interests in Artificial Intelligence, Computer Vision, and Smart Agriculture. It provides a starting point for exploring how machine learning can assist in plant disease identification.
+This project is relevant to AI-assisted agriculture, crop health monitoring, and smart farming research.
 
 ## Current Status
-The repository is a fork of an existing open-source project. Independent modifications, model evaluation, and performance results will be documented after implementation and testing.
+This repository builds on an existing open-source implementation. Further model evaluation and independent improvements are planned.
 
-## Attribution
+## Original Source and Attribution
 Original repository: https://github.com/kashish-ag/Detection-of-Plant-Disease
 
-Please refer to the original repository and its MIT License for attribution and reuse conditions.
+Please review the original project's license and attribution requirements before reusing or redistributing its code.
 
 ## Future Work
-- Evaluate classification performance using appropriate test data.
-- Document accuracy, precision, recall, and confusion matrix after testing.
-- Investigate applicability to locally relevant crops using suitable datasets.
-- Improve reproducibility and technical documentation.
+- Evaluate model performance using appropriate test data.
+- Document classification results and limitations.
+- Explore practical applications for crop disease identification.
